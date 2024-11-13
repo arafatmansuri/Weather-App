@@ -63,6 +63,9 @@ form input[type="submit"]:hover{
     margin-top: 10px;
     margin-bottom: 20px;
 }
+.detailsNo{
+    display: none;
+}
 .details{
     display: flex;
     justify-content: center;
